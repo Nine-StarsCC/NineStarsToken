@@ -1,0 +1,2 @@
+# NineStarsToken
+nst coin code
